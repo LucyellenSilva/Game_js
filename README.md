@@ -2,6 +2,6 @@
 Game with javascript
 
 
-click the ball and she fades away
+click on the ball and it fades away
 
 https://lucyellensilva.github.io/Game_js/
